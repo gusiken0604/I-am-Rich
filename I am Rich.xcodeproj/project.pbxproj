@@ -57,9 +57,9 @@
 			isa = PBXGroup;
 			children = (
 				C5A11A5328F547C70097F20D /* AppDelegate.swift */,
-				C5A11A5528F547C70097F20D /* SceneDelegate.swift */,
 				C5A11A5728F547C70097F20D /* ViewController.swift */,
 				C5A11A5928F547C70097F20D /* Main.storyboard */,
+				C5A11A5528F547C70097F20D /* SceneDelegate.swift */,
 				C5A11A5C28F547C80097F20D /* Assets.xcassets */,
 				C5A11A5E28F547C80097F20D /* LaunchScreen.storyboard */,
 				C5A11A6128F547C80097F20D /* Info.plist */,
